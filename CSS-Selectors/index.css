@@ -6,3 +6,7 @@ body {
 p {
   color: purple;
 }
+
+.gray {
+  color: gray;
+}

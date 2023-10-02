@@ -18,3 +18,12 @@ h1,
 h2 {
   color: blue;
 }
+
+.highlight {
+  text-decoration: line;
+  background-color: blue;
+}
+p span {
+  text-transform: uppercase;
+  background-color: gold;
+}

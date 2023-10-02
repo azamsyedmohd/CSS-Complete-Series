@@ -30,3 +30,7 @@ p span {
   text-transform: uppercase;
   background-color: gold;
 }
+
+/* Specifity Rule */
+
+/* Specificity Priority: Element Selector < Class Selector < Id Selector. */

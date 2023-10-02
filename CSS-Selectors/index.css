@@ -13,3 +13,8 @@ p {
 #second {
   font-style: italic;
 }
+
+h1,
+h2 {
+  color: blue;
+}

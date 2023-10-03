@@ -13,3 +13,6 @@ p {
 .two {
   color: #a571d6;
 }
+.three {
+  color: hsla(312, 100%, 72%, 0.78);
+}

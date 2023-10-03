@@ -5,3 +5,8 @@ body {
   background-color: blanchedalmond;
   color: blue;
 }
+p {
+  /* rgba ( red,green,blue,alpha(transparency factor) ) */
+  /* rgba () is a standard to use colors in css which combines the red, green, blue shades. */
+  color: rgba(208, 51, 51, 0.699);
+}

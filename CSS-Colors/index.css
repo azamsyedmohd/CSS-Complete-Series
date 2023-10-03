@@ -10,3 +10,6 @@ p {
   /* rgba () is a standard to use colors in css which combines the red, green, blue shades. */
   color: rgba(208, 51, 51, 0.699);
 }
+.two {
+  color: #a571d6;
+}

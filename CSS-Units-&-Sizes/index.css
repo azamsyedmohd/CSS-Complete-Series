@@ -2,13 +2,15 @@ html {
   font-size: 16px;
 }
 
-body {
-  font-size: 1rem;
+h1 {
+  border: 2px dashed red;
+  width: 50%;
+  font-size: 3rem;
+  padding: 0.5em;
 }
-main {
+p {
+  border: 1px solid black;
   font-size: 2rem;
+  width: 40ch;
 }
-.rem {
-  font-size: 2rem;
-}
-/* rem units are referring to the rrot element or html element and its font-size, generally its font-size is 16px */
+/* em units are used when we decide the font-size relative to the parents and margin-padding size to its own element's font-size */

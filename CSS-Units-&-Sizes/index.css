@@ -3,3 +3,10 @@ body {
   /* Custom font-size */
   font-size: 25px;
 }
+
+p {
+  font-size: 32px;
+}
+h1 {
+  border: 2px dashed brown;
+}

@@ -7,6 +7,10 @@ body {
 p {
   font-size: 32px;
 }
+header {
+  width: 50%;
+}
 h1 {
   border: 2px dashed brown;
+  width: 50%;
 }

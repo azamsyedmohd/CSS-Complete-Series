@@ -1,16 +1,14 @@
-body {
-  /* font-size: 16px;  // By default browser size of font-size of elements. */
-  /* Custom font-size */
-  font-size: 25px;
+html {
+  font-size: 16px;
 }
 
-p {
-  font-size: 32px;
+body {
+  font-size: 1rem;
 }
-header {
-  width: 50%;
+main {
+  font-size: 2rem;
 }
-h1 {
-  border: 2px dashed brown;
-  width: 50%;
+.rem {
+  font-size: 2rem;
 }
+/* rem units are referring to the rrot element or html element and its font-size, generally its font-size is 16px */

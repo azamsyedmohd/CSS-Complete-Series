@@ -4,7 +4,8 @@
   box-sizing: border-box;
 }
 .container {
-  border-top-width: 5px;
+  border: 10px double red;
+  /* border-top-width: 5px;
   border-top-style: dotted;
   border-top-color: blue;
   border-bottom-width: 4px;
@@ -15,7 +16,7 @@
   border-left-color: green;
   border-right-width: 5px;
   border-right-style: double;
-  border-right-color: pink;
+  border-right-color: pink; */
   /* border: 2px dashed red; */
   /* margin-top: 2em;
   margin-right: 2em;
@@ -25,4 +26,17 @@
   font-size: 1.5em;
   padding: 1.5em 2em 3em 4em;
   /* padding:top-padding,right-padding,bottom-padding,left-padding */
+  outline: 5px solid purple;
+  /* outline-offset: 15px; */
+  outline-offset: -15px;
+}
+.circle {
+  margin: 2rem auto;
+  background-color: gold;
+  height: 100px;
+  width: 100px;
+  border: 2px solid black;
+  border-radius: 50px;
+  outline: 2px solid red;
+  outline-offset: 0.25rem;
 }

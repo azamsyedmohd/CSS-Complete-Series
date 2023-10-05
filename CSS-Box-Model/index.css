@@ -11,5 +11,6 @@
   margin-bottom: 2em; */
   margin: 1.5em 2em 2em;
   font-size: 1.5em;
-  padding: 1.5em;
+  padding: 1.5em 2em 3em 4em;
+  /* padding:top-padding,right-padding,bottom-padding,left-padding */
 }

@@ -4,7 +4,14 @@ body {
   font-size: 2rem;
   color: purple;
 }
-input,
+/* input,
 button {
   font: inherit;
+} */
+
+p {
+  /* text-decoration: underline; */
+  /* text-decoration: overline; */
+  /* text-decoration: line-through; */
+  text-decoration: none;
 }

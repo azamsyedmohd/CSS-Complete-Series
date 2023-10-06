@@ -39,9 +39,16 @@ button {
   letter-spacing: 0.1em;
 } */
 
-p {
+/* p {
   font-weight: 100;
   font-weight: 700;
   font-weight: lighter;
   font-weight: bolder;
+} */
+
+p {
+  font-style: italic;
+  font-style: normal;
+  font-style: oblique;
+  font-style: inherit;
 }

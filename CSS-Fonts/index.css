@@ -23,8 +23,11 @@ button {
   text-transform: none;
 } */
 
-p {
+/* p {
   text-align: left;
   text-align: right;
   text-align: justify;
+} */
+p {
+  text-indent: 2em; /* 2 * 2rem = 2 * 2 * 16px = 64px */
 }

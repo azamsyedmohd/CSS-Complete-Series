@@ -9,9 +9,16 @@ button {
   font: inherit;
 } */
 
+/* p {
+  text-decoration: underline; 
+  text-decoration: overline;
+  text-decoration: line-through;
+   text-decoration: none;
+} */
+
 p {
-  /* text-decoration: underline; */
-  /* text-decoration: overline; */
-  /* text-decoration: line-through; */
-  text-decoration: none;
+  text-transform: uppercase;
+  text-transform: lowercase;
+  text-transform: capitalize;
+  text-transform: none;
 }

@@ -32,9 +32,16 @@ button {
   text-indent: 2em; 
 } */
 
-p {
+/* p {
   line-height: 1.1em;
   letter-spacing: 0.01em;
   word-spacing: 0.5em;
   letter-spacing: 0.1em;
+} */
+
+p {
+  font-weight: 100;
+  font-weight: 700;
+  font-weight: lighter;
+  font-weight: bolder;
 }

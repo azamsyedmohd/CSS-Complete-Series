@@ -11,12 +11,17 @@ a {
   cursor: pointer;
   color: coral;
 }
-a:focus {
-  color: orchid;
-}
+/* a:visited {
+  color: blue;
+} */
+
 a:hover {
   color: deeppink;
 }
 a:active {
   color: yellow;
 }
+a:focus {
+  color: orchid;
+}
+/* visited is not mostly used --> only focus, hover, active are used. */

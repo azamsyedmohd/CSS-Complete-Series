@@ -11,7 +11,7 @@ a {
   cursor: pointer;
   color: coral;
 }
-a:visited {
+a:focus {
   color: orchid;
 }
 a:hover {

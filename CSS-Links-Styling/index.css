@@ -17,3 +17,6 @@ a:visited {
 a:hover {
   color: deeppink;
 }
+a:active {
+  color: yellow;
+}

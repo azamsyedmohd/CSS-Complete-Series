@@ -5,3 +5,9 @@ body {
   font-family: "Oswald", sans-serif;
   font-family: "Roboto", sans-serif;
 }
+
+a {
+  text-decoration: none;
+  cursor: pointer;
+  color: coral;
+}

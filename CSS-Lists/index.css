@@ -6,8 +6,7 @@ body {
   font-family: "Roboto", sans-serif;
 }
 ol {
-  list-style-type: none;
-  padding: 0px;
+  list-style-type: lower-alpha;
 }
 ul {
   text-align: center;

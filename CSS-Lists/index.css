@@ -15,3 +15,11 @@ ul {
   line-height: 1.6;
   list-style: square inside;
 }
+
+ul li:nth-child(odd) {
+  color: red;
+}
+
+ul li:nth-child(even) {
+  color: green;
+}

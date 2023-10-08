@@ -1,7 +1,19 @@
 @import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200&family=Roboto:ital,wght@1,100&display=swap");
 
 body {
-  padding: 5%;
+  padding: 2% 5%;
   font-size: 2rem;
   font-family: "Roboto", sans-serif;
+}
+ol {
+  list-style-type: lower-alpha;
+  list-style-type: armenian;
+  list-style-type: lower-roman;
+  list-style-type: lower-latin;
+  list-style-type: lower-greek;
+  list-style-type: decimal-leading-zero;
+  list-style-type: circle;
+  list-style-type: disc;
+  list-style-type: square;
+  list-style-type: upper-alpha;
 }

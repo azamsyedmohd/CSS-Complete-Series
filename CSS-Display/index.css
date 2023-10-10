@@ -8,3 +8,8 @@ main {
   background-color: antiquewhite;
   width: 50%;
 }
+p {
+  background-color: lightslategray;
+  color: white;
+  margin: 20px 15px;
+}

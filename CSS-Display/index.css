@@ -13,10 +13,23 @@ p {
   color: white;
   margin: 20px 15px;
 }
-.opposite {
+/* .opposite {
   color: brown;
+  font-weight: 600;
   background-color: whitesmoke;
-  height: 300px;
-  width: 400px;
-  margin: 40px;
+  height: 400px;
+  width: 200px;
+  margin: 70px;
+  border: 4px solid yellow;
+  padding: 1rem;
+} */
+.opposite {
+  display: inline-block;
+  background-color: rgb(153, 228, 109);
+  color: whitesmoke;
+  font-weight: 600;
+  margin: 1rem;
+  padding: 1rem;
+  width: 150px;
+  height: 50px;
 }

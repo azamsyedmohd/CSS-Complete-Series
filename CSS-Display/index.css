@@ -19,5 +19,19 @@ ul {
 
 li {
   display: inline-block;
+}
+
+li a {
+  color: rgb(143, 182, 255);
+  text-decoration: none;
   padding: 0.5rem;
+}
+
+li a:hover {
+  color: thistle;
+}
+
+ul li a:focus {
+  color: thistle;
+  border-bottom: 2px solid thistle;
 }

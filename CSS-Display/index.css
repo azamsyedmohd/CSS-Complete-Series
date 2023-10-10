@@ -16,3 +16,8 @@ ul {
   background: black;
   font-weight: 700;
 }
+
+li {
+  display: inline-block;
+  padding: 0.5rem;
+}

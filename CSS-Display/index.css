@@ -16,4 +16,7 @@ p {
 .opposite {
   color: brown;
   background-color: whitesmoke;
+  height: 300px;
+  width: 400px;
+  margin: 40px;
 }

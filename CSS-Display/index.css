@@ -13,3 +13,7 @@ p {
   color: white;
   margin: 20px 15px;
 }
+.opposite {
+  color: brown;
+  background-color: whitesmoke;
+}

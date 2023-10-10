@@ -3,3 +3,8 @@ body {
   font-size: 2rem;
   font-family: "Roboto", sans-serif;
 }
+
+main {
+  background-color: antiquewhite;
+  width: 50%;
+}

@@ -18,3 +18,8 @@ nav {
   font-size: 2rem;
   line-height: 5rem;
 }
+h2 {
+  background-color: yellow;
+  border-top-right-radius: 2rem;
+  border-top-left-radius: 2rem;
+}

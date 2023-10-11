@@ -23,3 +23,27 @@ h2 {
   border-top-right-radius: 2rem;
   border-top-left-radius: 2rem;
 }
+ul {
+  list-style-type: none;
+}
+li {
+  border-top: 2px solid black;
+}
+
+li a {
+  display: block;
+  text-decoration: none;
+  color: brown;
+  font-weight: 600;
+}
+li:last-child a {
+  border-bottom-left-radius: 2rem;
+  border-bottom-right-radius: 2rem;
+}
+
+li a:hover,
+li a:focus {
+  background-color: brown;
+  color: white;
+  font-weight: 600;
+}

@@ -11,3 +11,22 @@ body {
   font-size: 1.5rem;
   min-height: 200vh;
 }
+.outer-container {
+  border: 3px dashed black;
+  width: 75vw;
+  height: 85vh;
+  margin: 40px auto;
+}
+.inner-container {
+  border: 2px solid blue;
+  width: 40vw;
+  height: 50vh;
+  margin: 100px auto;
+}
+.box {
+  width: 150px;
+  height: 150px;
+  color: white;
+  background-color: black;
+  padding: 1rem;
+}

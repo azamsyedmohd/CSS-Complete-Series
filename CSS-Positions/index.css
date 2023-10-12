@@ -21,7 +21,7 @@ body {
 .inner-container {
   border: 2px solid blue;
   width: 40vw;
-  height: 50vh;
+  height: 80vh;
   margin: 100px auto;
   /* position: relative; */
 }
@@ -51,4 +51,9 @@ body {
   top: 100px;
   left: 200px;
   z-index: 0;
+}
+.sticky {
+  background-color: blueviolet;
+  position: sticky;
+  top: 1rem;
 }

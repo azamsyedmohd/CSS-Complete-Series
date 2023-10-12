@@ -23,7 +23,7 @@ body {
   width: 40vw;
   height: 50vh;
   margin: 100px auto;
-  position: relative;
+  /* position: relative; */
 }
 .box {
   width: 150px;
@@ -35,6 +35,12 @@ body {
 .absolute {
   background-color: blue;
   position: absolute;
-  top: 100px;
-  left: 50px;
+  top: 0;
+  left: 0;
+}
+.relative {
+  background-color: red;
+  position: relative;
+  top: 0;
+  left: 150px;
 }

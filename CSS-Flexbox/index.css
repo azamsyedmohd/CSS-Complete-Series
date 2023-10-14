@@ -9,3 +9,17 @@ body {
   min-height: 100vh;
   padding: 20px;
 }
+.container {
+  max-width: 800px;
+  min-height: 400px;
+  border: 1px solid black;
+  margin-inline: auto;
+}
+.box {
+  min-width: 100px;
+  min-height: 100px;
+  border: 1px solid black;
+  color: green;
+  font-size: 2rem;
+  padding: 0.5rem;
+}

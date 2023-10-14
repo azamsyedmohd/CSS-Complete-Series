@@ -14,10 +14,24 @@ body {
   min-height: 400px;
   border: 1px solid black;
   margin-inline: auto;
+  display: flex;
+  flex-direction: column;
+  /* flex-direction: column; */
+  /* justify-content: flex-start; */
+  /* justify-content: flex-end; */
+  /* justify-content: center; */
+  /* justify-content: space-around; */
+  /* justify-content: space-between; */
+  justify-content: space-evenly;
+  /* align-items: start; */
+  /* align-items: end; */
+  align-items: center;
+
+  gap: 1rem;
 }
 .box {
   min-width: 100px;
-  min-height: 100px;
+  height: 100px;
   border: 1px solid black;
   color: green;
   font-size: 2rem;

@@ -39,11 +39,14 @@ body {
   color: green;
   font-size: 2rem;
   padding: 0.5rem;
-  flex-basis: 100px;
+  /* flex-basis: 100px;
   flex-grow: 1;
-  flex-shrink: 1;
+  flex-shrink: 1; */
+  flex: 1 1 150px;
 }
 .box:nth-child(2) {
-  flex-grow: 2;
+  /* flex-grow: 2;
   flex-shrink: 2;
+  flex-basis: 100px; */
+  flex: 2 2 150px;
 }

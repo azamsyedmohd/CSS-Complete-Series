@@ -25,7 +25,7 @@ body {
   /* justify-content: center; */
   /* justify-content: space-around; */
   /* justify-content: space-between; */
-  justify-content: space-evenly;
+  justify-content: center;
   /* align-items: start; */
   /* align-items: end; */
   align-items: center;
@@ -33,10 +33,17 @@ body {
   gap: 1rem;
 }
 .box {
-  min-width: 100px;
-  height: 100px;
+  /* min-width: 100px; */
+  /* height: 100px; */
   border: 1px solid black;
   color: green;
   font-size: 2rem;
   padding: 0.5rem;
+  flex-basis: 100px;
+  flex-grow: 1;
+  flex-shrink: 1;
+}
+.box:nth-child(2) {
+  flex-grow: 2;
+  flex-shrink: 2;
 }

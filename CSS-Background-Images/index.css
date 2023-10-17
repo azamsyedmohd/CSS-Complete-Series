@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,200;6..12,300&family=Oswald:wght@200&family=Poppins:wght@200&family=Roboto:ital,wght@0,100;0,300;1,100&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Nunito Sans", sans-serif;
+  min-height: 100vh;
+}
+.example {
+  margin-top: 1rem;
+  padding-left: 20px;
+  border: 1px solid red;
+}
+.example img {
+  display: block;
+  width: 20%;
+  height: auto;
+}

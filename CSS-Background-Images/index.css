@@ -9,6 +9,12 @@ body {
   font-family: "Nunito", sans-serif;
   font-family: "Nunito Sans", sans-serif;
   min-height: 100vh;
+  background-color: aliceblue;
+  background-image: url(./Images/bubbles.png),
+    linear-gradient(to left, steelblue, white);
+  background-repeat: repeat-y, no-repeat;
+  background-position: right;
+  background-size: 15%, auto;
 }
 .container {
   background-color: bisque;

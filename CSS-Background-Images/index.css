@@ -16,13 +16,13 @@ body {
   background-position: right, auto;
   background-size: 15%, auto; */
 }
-.container {
+/* .container {
   background-color: bisque;
   background-image: url("./Images/map-2176x1451.png");
   background-size: cover;
   background-position: center;
-}
-.hero {
+} */
+/* .hero {
   border: 1px solid black;
   padding: 1rem;
   display: flex;
@@ -53,7 +53,7 @@ body {
 .absolute {
   position: absolute;
   left: -100000px;
-}
+} */
 .clip {
   font-weight: 900;
   font-size: 18rem;

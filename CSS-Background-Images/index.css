@@ -10,11 +10,11 @@ body {
   font-family: "Nunito Sans", sans-serif;
   min-height: 100vh;
   background-color: aliceblue;
-  background-image: url(./Images/bubbles.png),
+  /* background-image: url(./Images/bubbles.png),
     linear-gradient(to left, steelblue, white);
   background-repeat: repeat-y, no-repeat;
-  background-position: right;
-  background-size: 15%, auto;
+  background-position: right, auto;
+  background-size: 15%, auto; */
 }
 .container {
   background-color: bisque;
@@ -53,4 +53,16 @@ body {
 .absolute {
   position: absolute;
   left: -100000px;
+}
+.clip {
+  font-weight: 900;
+  font-size: 18rem;
+  text-align: center;
+  background-image: url(./Images/scenic-2200x1331.png);
+  background-size: 100%;
+  background-position: bottom center;
+  text-transform: uppercase;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
 }

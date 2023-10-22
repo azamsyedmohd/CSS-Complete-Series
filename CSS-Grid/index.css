@@ -16,6 +16,8 @@ body {
   background-color: rgb(59, 53, 53);
   height: 100%;
   width: 100%;
+  display: grid;
+  padding: 4rem;
 }
 .item {
   background-color: rgb(90, 90, 160);

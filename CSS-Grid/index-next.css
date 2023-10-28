@@ -21,6 +21,8 @@ body {
   /* justify-items: end; */
   /* justify-items: stretch;
   align-items: stretch; */
+  /* align-items: start; */
+  align-items: end;
   place-items: center;
 }
 .item {

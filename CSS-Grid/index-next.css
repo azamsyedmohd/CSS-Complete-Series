@@ -6,23 +6,32 @@
 
 body {
   width: 100%;
-  min-height: 100vh;
+  height: 100vh;
 }
 .container {
   height: 100%;
   width: 100%;
-  padding: 2rem;
+  padding: 1rem;
   background-color: rgb(69, 62, 62);
   display: grid;
-  grid-template-rows: repeat(4, 200px);
-  grid-template-columns: repeat(1, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  grid-template-columns: repeat(4, 1fr);
+  /* justify-items: start; */
+  /* justify-items: end; */
+  justify-items: stretch;
+  align-items: stretch;
 }
 .item {
-  width: 100px;
-  height: 100px;
+  /* width: 100px;
+  height: 100px; */
   background-color: rgb(10, 224, 224);
   border: 1px solid white;
   /* justify-self: center;
   align-self: center; */
-  place-self: center;
+  /* place-self: center; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+  font-weight: 500;
 }

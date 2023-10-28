@@ -13,3 +13,9 @@ body {
   width: 100%;
   background-color: rgb(69, 62, 62);
 }
+.item {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(41, 97, 41);
+  border: 1px solid black;
+}

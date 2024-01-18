@@ -24,11 +24,9 @@ Text styling and formatting
 Media queries
 Flexbox and Grid layout
 ### CSS Animations and Transitions
-Keyframes and animation properties
-Transition effects
-CSS Preprocessors
+Keyframes and animation properties,
+Transition effects,
+CSS Preprocessors.
 
-Code organization and readability
-Cross-browser compatibility
 
-Happy coding!
+## Happy coding! 🧡

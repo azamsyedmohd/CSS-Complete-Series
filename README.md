@@ -20,9 +20,8 @@ The playlist includes a variety of topics, including but not limited to:
 Selectors, properties, and values
 Box model and positioning
 Text styling and formatting
-Responsive Design
-
-### Media queries
+### Responsive Design
+Media queries
 Flexbox and Grid layout
 CSS Animations and Transitions
 

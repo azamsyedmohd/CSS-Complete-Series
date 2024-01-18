@@ -2,11 +2,11 @@
 Welcome to the CSS Playlist! This collection of CSS tutorials and examples is designed to help you enhance your skills in Cascading Style Sheets (CSS) and create stunning, responsive, and visually appealing web designs.
 
 ## Table of Contents
-Introduction
-Getting Started
-Playlist Contents
-How to Use
-Contributing
+### Introduction
+### Getting Started
+### Playlist Contents
+### How to Use
+### Contributing
 License
 Introduction
 CSS is a fundamental technology used in web development to style and layout web pages. Whether you're a beginner or an experienced developer, this playlist aims to cover a range of CSS topics to help you improve your proficiency and stay updated with the latest trends.

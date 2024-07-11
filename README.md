@@ -23,7 +23,7 @@ Text styling and formatting
 ### Responsive Design
 Media queries
 Flexbox and Grid layout
-### CSS Animations and Transitions
+### CSS Animations and Transitions!
 Keyframes and animation properties,
 Transition effects,
 CSS Preprocessors.

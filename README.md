@@ -1,4 +1,4 @@
-# CSS Playlist🚀
+# 🧡CSS Playlist🚀
 Welcome to the CSS Playlist! This collection of CSS tutorials and examples is designed to help you enhance your skills in Cascading Style Sheets (CSS) and create stunning, responsive, and visually appealing web designs.
 
 ## Table of Contents 📙
